@@ -1,5 +1,5 @@
 # LedFx-Effects
-![Test](https://github.com/Andro-Marian/LedFx-Effects/blob/main/droplets/blob-prew.gif)  
+![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/blob-prew.gif)  
 ![Test](https://github.com/Andro-Marian/LedFx-Effects/blob/main/droplets/droplet_1px-prew.gif)  
 ![Test2](https://github.com/Andro-Marian/LedFx-Effects/blob/main/droplets/droplet_3px-prew.gif)  
 ![Test](https://github.com/Andro-Marian/LedFx-Effects/blob/main/droplets/droplet_5px-prew.gif)  
