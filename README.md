@@ -1,12 +1,16 @@
 # LedFx-Effects
 
+Adds some droplets effects and modified main effects.
+
+# Original droplets
+
 | Name  | Preview |
 | ------------- | ------------- |
 Blob: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/blob-prew.gif)  
 Ripple: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/ripple-prew.gif)  
 Laser:  | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/laser-prew.gif)  
 
-# LedFx-New
+# New droplets
 | Name  | Preview |
 | ------------- | ------------- |
 Droplet 1px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/droplet_1px-prew.gif)  
