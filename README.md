@@ -20,3 +20,4 @@ My Cool Droplet: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-
 Sparkle 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/sparkle_20px-prew.gif)  
 Waves 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/Waves_20px-prew.gif)
 LeftRight 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/LeftRight_20px-prew.gif)
+RightLeft 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/RightLeft_20px-prew.gif)
