@@ -21,3 +21,8 @@ Sparkle 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Eff
 Waves 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/Waves_20px-prew.gif)
 LeftRight 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/LeftRight_20px-prew.gif)
 RightLeft 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/RightLeft_20px-prew.gif)
+
+# New effects
+| Name  | Preview | Changes |
+| ------------- | ------------- | ------------- |
+Rain Extend | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/effects/rain_extend.png) | - Different color for Low, Mid, High pulses.<br>- Low, Mid, High can have Color or Random color from Gradient<br>- Can disable the droplet for the specified pulse by "Pulse only" |
