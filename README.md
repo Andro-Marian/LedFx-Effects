@@ -19,8 +19,12 @@ Droplet 5px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effe
 My Cool Droplet: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/my_cool_droplet-prew.gif)  
 Sparkle 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/sparkle_20px-prew.gif)  
 Waves 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/Waves_20px-prew.gif)
-LeftRight 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/LeftRight_20px-prew.gif)
-RightLeft 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/RightLeft_20px-prew.gif)
+Trail Left 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/Trail_Left_20px-prew.gif)
+Trail Right 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/Trail_Right_20px-prew.gif)
+Left & Right 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/Left_&_Right_20px-prew.gif)
+Left & Right 40px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/Left_&_Right_40px-prew.gif)
+Left Right Cross 20px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/Left_Right_Cross_20px-prew.gif)
+Left Right Cross 40px: | ![Test](https://raw.githubusercontent.com/Andro-Marian/LedFx-Effects/refs/heads/main/droplets/Left_Right_Cross_40px-prew.gif)
 
 # New effects
 | Name  | Preview | Changes |
